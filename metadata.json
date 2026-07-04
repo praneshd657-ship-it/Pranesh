@@ -1,0 +1,6 @@
+{
+  "name": "SmartPic",
+  "description": "Free wallpaper app with categories like car, nature, cyberpunk, and abstract art by Pranesh the Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
